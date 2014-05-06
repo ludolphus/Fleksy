@@ -1,0 +1,1 @@
+see https://github.com/Fleksy/FleksySDK/blob/master/LICENSE.pdf

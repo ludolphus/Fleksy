@@ -1,0 +1,8 @@
+tmp
+bin
+build
+*.zip
+.project
+.settings
+*.pch
+Fleksy.xcodeproj
